@@ -1,3 +1,4 @@
+<html>
 <div id="app_settings" style="display:none;">
 
  <label class='app_text_label'>Max Snow Particles </label>
@@ -198,4 +199,4 @@ xprs-app-snow * {
   }, 20 * 1000);
 })();
 </script>
-  -->
+</html>
